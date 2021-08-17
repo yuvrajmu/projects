@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+E:\selenium project\project\javamca\.metadata\.plugins\org.eclipse.jdt.core
+2830451499.index
+524819999.index

@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author User
+ *
+ */
+module demo {
+	requires java.desktop;
+}
