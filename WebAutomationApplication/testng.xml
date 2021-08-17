@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test Automation Test Suite">
+  
+  <listeners>
+  
+  <listener
+  class-name = "com.qa.amazon.extentReportListener.ExtentReporterNG" />
+  
+ </listeners>
+  
+  
+  
+  
+  
+  
+  <test  name="Free CRM App sanity Test Cases">
+    <classes>
+      <class name="com.qa.amazon.testcases.LandingPageTest"/>
+     
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
